@@ -9,7 +9,7 @@ bogdan-igorevich97@mail.ru
 ## **Summary**
 ### Want to become a great front-end developer,stressresistant
 ## **Skills**
-### HTML, CSS, JS
+### HTML, CSS, JS, C++
 ## **code example**
 ```
 function digPow(n, p){
