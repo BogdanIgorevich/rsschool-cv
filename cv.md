@@ -21,4 +21,3 @@ function digPow(n, p){
 ### *Belarusian-Russian University(2020, specialist)
 ## **English**
 ### English (B1)
-
